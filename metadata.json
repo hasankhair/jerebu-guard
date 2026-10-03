@@ -1,0 +1,10 @@
+{
+  "name": "JerebuGuard Malaysia - Haze Action & APIMS Monitor",
+  "description": "Comprehensive Android haze solution app for Malaysia: real-time APIMS air quality, transboundary fire hotspot tracking, citizen open burning reporting to JAS/BOMBA, health protection guides, and AI smoke analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
